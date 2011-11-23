@@ -1,0 +1,12 @@
+Source: yavdr-addon-gl-117
+Section: misc
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.8.4
+Build-Depends: debhelper (>= 7), cdbs
+
+Package: yavdr-addon-gl-117
+Architecture: all
+Depends: ${yavdr-startup},${misc:Depends}, yavdr-utils, gl-117
+Description: yavdr-addon-gl-117
+ yavdr-addon-gl-117

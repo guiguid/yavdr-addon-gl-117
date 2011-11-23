@@ -1,0 +1,1 @@
+        <command name=<?cs call:quote(_("gl-117")) ?> execute="/usr/share/vdr/menuorg-appswitcher standalone=yes app=gl-117 &amp;> /dev/null " />
